@@ -1,4 +1,4 @@
-# 🛒 Retail Customer Behavior Analysis: Unlocking High-Value Segments
+# Retail Customer Behavior Analysis: Unlocking High-Value Segments
 
 **📌 Xem Báo cáo Hoàn chỉnh (Full HTML Report):** 
 👉 [Bấm vào đây để xem toàn bộ phân tích và biểu đồ trực quan](link-xem-truc-tiep)
